@@ -9,8 +9,10 @@ Annotated images from roboflow were used to train a segmentation based model. Th
 
 # Methodology
 To run this code, you must first run the model and extract the results in json format from inference. The code will use the image path as an input:
-path = "Your Local File path"
-filename = path + "detection_result.json"
+
+	path = "Your Local File path"
+	filename = path + "detection_result.json"
+
 It will then use the file and extract predictions and bounding box data to analyse the visibility level of each bicycle parts.
 
 # Output
