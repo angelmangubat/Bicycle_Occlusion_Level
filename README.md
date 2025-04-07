@@ -24,8 +24,11 @@ The algorithm will output information such as bicycle parts visibility level and
   
   
   
-  
-  Angelique Mangubat
-  Master Thesis
-  Connected Autonomous Vehicle
-  Atlantic Technological University, Sligo
+
+
+
+# Author
+***Angelique Mangubat
+Master Thesis
+Connected Autonomous Vehicle
+Atlantic Technological University, Sligo
